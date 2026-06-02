@@ -17,10 +17,10 @@ pip install -r requirements.txt
 
 ## 🚀 How to Run
 
-1. Make sure you have **Python** installed on your computer.
-2. Clone or download this repository.
-3. Install the dependencies using the command above.
-4. Open your terminal in the project folder and run:
+# 1. Make sure you have **Python** installed on your computer.
+# 2. Clone or download this repository.
+# 3. Install the dependencies using the command above.
+# 4. Open your terminal in the project folder and run:
 
 ```bash
 python main.py
